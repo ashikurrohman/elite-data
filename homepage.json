@@ -13,7 +13,7 @@
     "icon": [
       {
         "id": 1,
-        "IconName":"AiOutlineCloudDownload",
+        "IconName":AiOutlineCloudDownload,
         "title": "20+ Yrs",
         "description": "Dental LAB"
       },

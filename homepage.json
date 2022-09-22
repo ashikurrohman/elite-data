@@ -13,25 +13,25 @@
     "icon": [
       {
         "id": 1,
-        "iconName":"AiOutlineCloudDownload",
+        "iconName":AiOutlineCloudDownload,
         "title": "20+ Yrs",
         "description": "Dental LAB"
       },
       {
         "id": 2,
-        "iconName":"TbHeadphones",
+        "iconName":TbHeadphones,
         "title": "250k+​",
         "description": "Success"
       },
       {
         "id": 3,
-        "iconName":"BiDonateBlood",
+        "iconName":BiDonateBlood,
         "title": "100%",
         "description": "Made In USA"
       },
       {
         "id": 4,
-        "iconName":"BiCurrentLocation",
+        "iconName":BiCurrentLocation,
         "title": "100%",
         "description": "Dental Implant"
       }
